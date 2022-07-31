@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abdelaziz Salah</h1>
+<h3 align="center">A passionate Computer engineer from egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelazizsalah" alt="abdelazizsalah" /></a> </p>
 
@@ -34,6 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelazizsalah&" alt="abdelazizsalah" /></p>
 
-
-
-<img src = "https://github-readme-stats.vercel.app/api?username=abdelazizSalah&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
