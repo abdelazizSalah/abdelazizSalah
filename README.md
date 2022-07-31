@@ -11,3 +11,6 @@
   LinkedIn : https://www.linkedin.com/in/abdelaziz-salah-4971781ab/
   Facebook : https://web.facebook.com/abdelaziz.sala7/ 
 
+
+[Gmail](abdelaziz.abdo01@eng-st.cu.edu.eg)
+[Facebook]([(2) Abdelaziz Salah | Facebook](https://web.facebook.com/abdelaziz.sala7/))
