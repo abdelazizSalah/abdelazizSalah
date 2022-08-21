@@ -5,6 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelazizsalah" alt="abdelazizsalah" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+---
 
 - 🔭 I’m currently working on ADT tool with Master Micro. 
 
@@ -20,6 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64](https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64)
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelaziz-salah-4971781ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaziz salah" height="30" width="40" /></a>
