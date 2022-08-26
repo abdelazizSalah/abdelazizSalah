@@ -14,7 +14,7 @@ ___
 
 - 🔭 I’m currently working on ADT tool with Master Micro. 
 
-- 🌱 I’m currently learning **Java and Machine Learning**
+- 🌱 I’m currently learning **Flutter and Machine Learning**
 
 - 👯 I’m looking to collaborate on **international Projects**
 
