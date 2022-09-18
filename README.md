@@ -1,70 +1,11 @@
-<!-- # Azkark/اذكارك
-<img src="assets/Logos/sp.png" width="600">
-
-## ما هو هذا البرنامج
-> __تطبيق جوال يحتوي علي أذكار المسلم و ادعية و تسابيح باللغة العربية و الانجليزية__
-
-<h2>ماذا استخدمنا في هذا المشروع</h2>
-<ul>
-<li>لغة دارت </li>
-<li>فلاتر </li>
-</ul>
-<h2>ماهي الباكدجات التي استخدمناها؟</h2>
-<ul>
-<li>google_fonts</li>
-<li>cron</li>
-<li>awesome_notifications</li>
-<li>flutter_launcher_icons</li>
-<li>flutter_native_splash</li>
-
-</ul>
-<h2> (notification) سيذكرك هذا البرنامج بذكر الله من خلال تنبيه</h2>
-
-## ScreenShots 
-
- <img src="./assets/imgs/Screens/1s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/2s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/3s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/4s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/5s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/6s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/7s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/8s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/9s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/10s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/11s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/12s.jpg" alt="."/>
-<img src="./assets/imgs/Screens/13s.jpg" alt="."/>
-
-<h2>Contributors: </h2>
-
-<table>
-  <tbody>
-    <tr>
-     <td align="center">
-  <img src="https://avatars.githubusercontent.com/u/71516308?v=4" alt="Abdekaziz Salah" width="150px">
-      <br>
-      <a href="https://github.com/abdelazizSalah">Abdelaziz Salah</a>
-  </td>
-    <td align="center">
-  <img src="https://user-images.githubusercontent.com/76037906/132257122-e9ea49d8-a912-4d19-8425-08d3847c96a6.jpg" alt="Ahmed Lotfy" width="150px">
-      <br>
-      <a href="https://github.com/AhmedLotfy02">Ahmed Lotfy</a>
-  </td>
-  
-  </tbody>
-</table>
- -->
-
-
-
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm <a href = "https://www.linkedin.com/in/abdelaziz-salah-4971781ab/"> Abdelaziz Salah </h1> 
 
 
 <h3 align="center"><b>A passionate computer engineer from Egypt</b></h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdelazizsalah&theme=onestar&row=2&column=4&margin-w=20&margin-h=10" style="display:block; margin:0 auto;" alt="", align = "center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdelazizsalah&theme=onestar&row=2&column=4&margin-w=20&margin-h=10" style="display:block; margin:0 auto;" alt="" align = "center">
+
 
 
 ___
