@@ -25,7 +25,7 @@ ___
 
 - 📫 How to reach me : **abdelaziz.abdo01@eng-st.cu.edu.eg** 
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64](https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64)
+- 📄 Know about my experiences => [my CVs](https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64)
 
 ___
 
