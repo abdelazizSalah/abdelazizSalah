@@ -47,6 +47,10 @@ ___
 
 ___
 
+  ## snake eating my contributions
+![snake gif](https://github.com/abdelazizSalah/abdelazizSalah/blob/output/github-contribution-grid-snake.gif)
+
+___
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelaziz-salah-4971781ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaziz salah" height="30" width="40" /></a>
@@ -57,6 +61,4 @@ ___
 </p>
 
 
-## snake eating my contributions
-![snake gif](https://github.com/abdelazizSalah/abdelazizSalah/blob/output/github-contribution-grid-snake.gif)
 
