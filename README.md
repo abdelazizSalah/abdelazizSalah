@@ -1,7 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm <a href = "https://www.linkedin.com/in/abdelaziz-salah-4971781ab/"> Abdelaziz Salah </h1> 
 
+  
+___
 
+  
+  <h3 align = "center">    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7820B&center=true&width=800&lines=One+day+I'll+own+a+leading+software;Company%2C+And+I+will+write+my+name+in;History+books%2C+So+have+the+chance+to+;contact+me+now%2C+before+you+miss+this;chance.+;Welcome+To+Zizo's+WorkHouse!)](https://git.io/typing-svg)  </h3>
+  
+  
 <h3 align="center"><b>A passionate computer engineer from Egypt</b></h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abdelazizsalah&theme=onestar&row=2&column=8&margin-w=20&margin-h=10" style="display:block; margin:0 auto;" alt="" align = "center">
@@ -59,6 +65,3 @@ ___
 <a href="https://www.hackerrank.com/abdelaziz132001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdelaziz132001" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdelazizsalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelazizsalah" height="30" width="40" /></a>
 </p>
-____
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7820B&center=true&width=600&lines=One+day+I'll+own+a+leading+software;Company%2C+And+I+will+write+my+name+in;History+books%2C+So+have+the+chance+to+;contact+me+now%2C+before+you+miss+this;chance.+;Welcome+To+Zizo's+WorkHouse!)](https://git.io/typing-svg)
