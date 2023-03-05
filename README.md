@@ -60,5 +60,5 @@ ___
 <a href="https://codeforces.com/profile/abdelazizsalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelazizsalah" height="30" width="40" /></a>
 </p>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=One+day+I'll+own+a+leading+software;Company%2C+And+I+will+write+my+name+in;History+books%2C+So+have+the+chance+to+;contact+me+now%2C+before+you+miss+this;chance.+;Welcome+To+Zizo's+WorkHouse!)](https://git.io/typing-svg)
 
