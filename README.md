@@ -28,7 +28,7 @@ ___
 
 - 💬 Ask me about **Flutter, C++, python, Discrete mathematics and probability and any programming topic**
 
-- 📫 How to reach me : **abdelaziz.abdo01@eng-st.cu.edu.eg** 
+- 📫 How to reach me : **abdelaziz132001@gmail.com** 
 
 - 📄 Know about my experiences => [my CVs](https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64)
 
