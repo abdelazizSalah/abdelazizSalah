@@ -7,7 +7,7 @@ ___
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2BA4F7&center=true&width=1000&lines=One+day+I'll+own+a+leading+software;Company%2C+And+I+will+write+my+name+in;History+books%2C+So+have+the+chance+to+;contact+me+now%2C+before+you+miss+this;chance.+;Welcome+To+Zizo's+WorkHouse!)](https://git.io/typing-svg)
   
   
-<h3 align="center"><b>A passionate computer engineer from Egypt</b></h3>
+<h3 align="center"><b>An Egyptian passionate computer engineer</b></h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abdelazizsalah&theme=onestar&row=2&column=8&margin-w=20&margin-h=10" style="display:block; margin:0 auto;" alt="" align = "center">
 
