@@ -20,17 +20,17 @@ ___
 
 - 🔭 I'm currently working on AEye graduation project, which is a mobile application aims to help visually impaired people to easily navigate, and perceive the world around them, and I am the team leader. 
 
-- 🌱 I’m currently learning **SwiftUI and Machine Learning**
+- 🌱 I’m currently learning **Cyber Security and Machine Learning**
 
 - 👯 I’m looking to collaborate on **international Projects**
 
-- 🤝 I’m looking for help with **Learning more about machine learning and AI**
+- 🤝 I’m looking for help with **Learning more about cyber security, machine learning and AI**
 
-- 💬 Ask me about **Flutter, SwiftUI, C++, python, Discrete mathematics and probability and any programming topic**
+- 💬 Ask me about **Cryptosystems, ML models, Flutter, SwiftUI, C++, python, Discrete mathematics and probability and any programming topic**
 
-- 📫 How to reach me : **abdelaziz132001@gmail.com** 
+- 📫 How to reach me : **neamaabd@b-tu.de** 
 
-- 📄 Know about my experiences => [my CVs](https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64)
+- 📄 Know about my experiences => [My Linkedin Profile]([https://drive.google.com/drive/folders/1njIzNojJfypw1ovDBRiH4MLHesHRbh64](https://www.linkedin.com/in/abdelaziz-salah-4971781ab/))
 
 ___
 
